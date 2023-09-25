@@ -1,0 +1,12 @@
+{
+   "welcomeMessage":"Welcome.....",
+   "titleRequired":"Title Required",
+   "descriptionRequired":"Description Required",
+   "successFullyCreated":"Task Created Successfully",
+   "idRequired":"Task Id Required",
+   "taskNotFound":"Task Not Found!",
+   "successFullyDeleted":"Task Successfully Deleted",
+   "successFullyUpdated":"Task Successfully Updated",
+   "successFullDataFetch":"Task Successfully Fetched",
+   "valideTaskPriority":"Please Add Valid Priority Of Task low, medium, high etc.."
+}
